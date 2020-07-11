@@ -1,5 +1,5 @@
 # simple_video_app
-#Run backend
+# Run backend
   node server.js
-#frontend
+# frontend
   open the file index.html in frontend in chrome
