@@ -2,4 +2,4 @@
 # Run backend
   node server.js
 # frontend
-  open the file index.html in frontend in chrome
+  open the file index.html in frontend folder in chrome
